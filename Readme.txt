@@ -1,4 +1,4 @@
-Requirements:
+■Requirements:
 ・Python 3.10
 ・pipがインストール済み
 ・venvがインストール済み
@@ -17,3 +17,14 @@ Requirements:
 3．shellで`jupyter-notebook`を実行。
 4. ブラウザが開くので、そこで作業をする。
 ===================================
+■ディレクトリ説明
+/
+ ┗┳━ DataSource/
+  ┃   ┗ <CSV FILE 等のリソース保存場所>
+  ┃
+  ┣━ Readme.txt
+  ┃  // このファイル．いろんな説明．
+  ┣━ requirement.txt
+  ┃  // pipでインストールするモジュール．
+  ┗━ test.ipynb
+     // ipynbのサンプルファイル．

@@ -1,4 +1,5 @@
 /_env/
 /.idea/
 /.ipynb_checkpoints/
-/DataSource/
+/DataSource/*
+!/DataSource/csv_files_here

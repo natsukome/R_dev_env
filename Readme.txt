@@ -1,5 +1,6 @@
 ■Requirements:
 ・Python 3.10
+ ┗ https://www.python.org/downloads/release/python-3108/
 ・pipがインストール済み
 ・venvがインストール済み
 ・python(, pip)にPATHが通っている。
